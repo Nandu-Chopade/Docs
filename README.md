@@ -32,3 +32,18 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Nandu-Chopade/sample.git
 git push -u origin main
+
+
+
+# Git Command for merging the branches
+if you want to merge feature branch (newly working) in Main or Master Branch then You need run following command.
+
+git merge [feature branch name ] 
+
+after this if get error like :-- 
+          fatal: refusing to merge unrelated histories Then Run following command
+          git merge [Branch Name] --allow-unrelated-histories
+          
+          
+          #Thank You
+
