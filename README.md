@@ -7,6 +7,10 @@ git remote set-url origin https://[APPLICATION]:[NEW TOKEN]@github.com/[ORGANISA
 
 git remote set-url origin https://Attaywalebaba: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@github.com/TQ-Mech-Tech/Attaywalebaba.git
 
-APPLICATION MEANS Repository Name Attaywalebaba 
-ORGANISATION Means USER Name 
-Repo Means Name
+# APPLICATION MEANS
+Repository Name Attaywalebaba 
+
+# ORGANISATION Means
+ --> USER Name 
+# Repo Means
+Name of the Repository.
